@@ -1,0 +1,4 @@
+﻿  1.cpp
+G:\PTTKGT_Bai2\PTTKGT_Bai2\1.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+G:\PTTKGT_Bai2\PTTKGT_Bai2\1.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  PTTKGT_Bai2.vcxproj -> G:\PTTKGT_Bai2\Debug\PTTKGT_Bai2.exe
